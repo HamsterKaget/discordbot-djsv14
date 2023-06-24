@@ -1,0 +1,13 @@
+{
+  "scripts": {
+    "build": "node ./app.js",
+    "start": "node ./index.js"
+  },
+  "dependencies": {
+    "discord.js": "^14.11.0",
+    "nodemon": "^2.0.22"
+  },
+  "devDependencies": {
+    "eslint": "^8.43.0"
+  }
+}
